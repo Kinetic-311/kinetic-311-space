@@ -1,7 +1,7 @@
 (To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
 
-# Name (@github_id)
-Kinetic-311
+# Name (@Kinetic-311)
+
 optional tag-line
 
 <img align="right" width="250" src="avatar.png">
